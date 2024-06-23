@@ -78,6 +78,8 @@ function showWin(win) {
     for (let prop of boxs) {
         prop.disabled = true;
     }
+    
+    count = 0;
 } 
 
 function draw() {

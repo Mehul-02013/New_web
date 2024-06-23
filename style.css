@@ -11,7 +11,7 @@ body {
 .contain {
    height: 70vh;
    display: flex;
-   justify-items: center;
+   justify-content: center;
    align-items: center;
 }
 
