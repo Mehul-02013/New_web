@@ -87,13 +87,3 @@ function draw() {
    msg.classList.remove('hide');
    
 }
-
-
-/*  problem statements 
-Q.1 for each loop every time start thay che boxs of first idx thi
-je na karne already check thayela box fari check thay che .
-
-Jo koi pattern Match thay gay hati pela to have fari e check thay che.
-because for..of loop aaray idx 0 thi check kare che
-
-*/
