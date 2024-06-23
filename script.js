@@ -87,3 +87,5 @@ function draw() {
    msg.classList.remove('hide');
    
 }
+
+console.log('hello')
